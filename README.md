@@ -14,6 +14,11 @@ tested and run using Postman
 Post is a REST Api built with express and Node that performs CRUD operations for posts.
 ## Technologies
 Project is created with:
+    - body-parser version: 1.19.0
+    - dotenv version: 10.0.0
+    - express version: 4.17.1
+    - mongoose version: 6.0.6
+    - nodemon version: 2.0.12
 
 
 ## How I worked on this project
@@ -32,5 +37,5 @@ My plan is to become a Full Stack Developer eventually and so i had to learn how
 - Integrate more routes.
 ## Available Scripts
 ```
-$npm start
+$nodemon app.js
 ```
